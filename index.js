@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const app = express();
 
-const TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN';
+const TOKEN = '7828935928:AAEZagEM2dQoKGeeIfI6swcJlGWvQn8EqgI';
 const GOOGLE_DRIVE_API_KEY = 'YOUR_GOOGLE_DRIVE_API_KEY';
 
 const bot = new TelegramBot(TOKEN, { polling: true });
