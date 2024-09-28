@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building...' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^1.1.0"
+  }
+}
