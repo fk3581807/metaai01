@@ -11,6 +11,7 @@
       "src": "/webhook",
       "dest": "index.js"
     }
-  ]
+  ],
+  "buildCommand": "npm install && npm run start"
 }
 
